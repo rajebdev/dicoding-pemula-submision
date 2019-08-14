@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wasis Jaya Gorden</string>
+    <string name="gorden_type">Tipe Gorden</string>
+    <string name="price">Harga</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="detail">Detail</string>
+    <string name="share">Share</string>
+    <string name="order">Order</string>
+    <string name="type_gorden">Type Gorden</string>
+    <string name="_299_terjual">299 Terjual</string>
+    <string name="rating_4_9_5_0">Rating : 4.9/5.0</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="berisi_deskripsi">berisi deskripsi</string>
+    <string name="review_pembeli">Review Pembeli</string>
+    <string name="pengguna_1">Pengguna 1</string>
+    <string name="barang_sangat_bagus">Barang Sangat Bagus</string>
+    <string name="saya_sangat_puas">Saya Sangat Puas</string>
+    <string name="pengguna_2">Pengguna 2</string>
+    <string name="deskripsi_gorden">Tirai atau gorden merupakan potongan kain atau tekstil yang digunakan untuk menghalangi cahaya. Tirai sering digantung di bagian dalam jendela suatu bangunan untuk menghalangi masuknya cahaya, sebagai contoh di waktu malam untuk membantu tidur, atau untuk mencegah cahaya keluar dari bangunan (mencegah orang di luar untuk dapat melihat bagian dalam. \nTirai juga memberikan pemisahan visual pada situasi lain seperti pada suatu pertunjukan panggung di mana para aktor melakukan persiapan terakhir untuk pertunjukan di balik tirai sewaktu penonton menunggu di depan tirai. Jika digunakan untuk suatu pertunjukan tertentu, biasanya tirai dibuka sewaktu pertunjukan dimulai dan ditutup sewaktu jeda pertunjukan.</string>
+</resources>
