@@ -5,6 +5,10 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.ImageView;
+
+import com.bumptech.glide.Glide;
+import com.bumptech.glide.request.RequestOptions;
 
 public class AboutActivity extends AppCompatActivity {
 
@@ -13,6 +17,13 @@ public class AboutActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_about);
         setTitle("About Me");
+
+        Glide.with(this)
+                .load("https://lh3.googleusercontent.com/a-/AAuE7mANz1oc7OZRWaOj7VezRjW79QVID5kITn7L5ivA=s120-p-no")
+                .apply(new RequestOptions().override(160, 160))
+                .into((ImageView) findViewById(R.id.profile_photo));
+
+//        https://lh3.googleusercontent.com/a-/AAuE7mANz1oc7OZRWaOj7VezRjW79QVID5kITn7L5ivA=s120-p-no
     }
 
     @Override

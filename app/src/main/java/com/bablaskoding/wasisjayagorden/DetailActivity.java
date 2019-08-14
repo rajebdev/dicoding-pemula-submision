@@ -43,7 +43,7 @@ public class DetailActivity extends AppCompatActivity {
 
         tvDataType.setText(type);
         tvDataPrice.setText(price);
-        tvDataRating.setText(rating);
+        tvDataRating.setText("Rating : "+rating);
     }
 
     @Override
